@@ -12,7 +12,7 @@ This repository showcases various SQL and Python projects related to a retail da
 - **Sales by Product Category**: Using `JOIN` and `GROUP BY` for category sales analysis.
 
 ## How to Use
-- Clone the repo: `git clone https://github.com/your-username/Pinehurst-Marketplace-Projects.git`
+- Clone the repo: `git clone https://github.com/jnaed1020/Retail-Marketplace-Projects.git`
 - Run SQL scripts through your preferred database (e.g., SQLite, MySQL).
 - Run Python scripts for additional analysis (if applicable).
 
