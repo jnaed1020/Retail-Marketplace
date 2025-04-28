@@ -1,4 +1,4 @@
-# Pinehurst Marketplace Projects
+# Retail Marketplace Projects
 ## Overview
 This repository showcases various SQL and Python projects related to a retail database. The goal is to display my skills in SQL querying, data analysis, and business metrics through practical examples.
 
