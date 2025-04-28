@@ -1,6 +1,6 @@
-# Retail Marketplace Projects
+# Startup Concept 
 ## Overview
-This repository showcases various SQL and Python projects related to a retail database. The goal is to display my skills in SQL querying, data analysis, and business metrics through practical examples.
+This repository showcases various SQL and Python projects related to an e-commerce database. The goal is to display my skills in SQL querying, data analysis, and business metrics through practical examples.
 
 ## Projects
 - **Top Selling Products**: SQL queries to find the best-selling products.
@@ -12,7 +12,7 @@ This repository showcases various SQL and Python projects related to a retail da
 - **Sales by Product Category**: Using `JOIN` and `GROUP BY` for category sales analysis.
 
 ## How to Use
-- Clone the repo: `git clone https://github.com/jnaed1020/Retail-Marketplace-Projects.git`
+- Clone the repo: `git clone https://github.com/jnaed1020/Startup-Concept.git`
 - Run SQL scripts through your preferred database (e.g., SQLite, MySQL).
 - Run Python scripts for additional analysis (if applicable).
 
