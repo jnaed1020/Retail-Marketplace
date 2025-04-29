@@ -4,7 +4,7 @@
 This folder contains Python scripts designed to interact with the retail marketplace database, process product data, and generate key business insights.
 
 ## Contents
-- sales_summary.py: Aggregates sales data per product.
+- query_database.py: Code for interacting with the SQL database, extracting key business metrics, and presenting analysis results.
 - database_connector.py: Handles connection to the SQLite database.
 
 ## How to Run
